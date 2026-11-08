@@ -65,10 +65,3 @@ I'm interested in the space between **development and business**: understanding 
   <img src="https://streak-stats.demolab.com?user=Novaixss&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
----
-
-<h2 align="center">📈 Contribution Chart</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Novaixss" alt="Contribution chart" width="100%" />
-</p>
