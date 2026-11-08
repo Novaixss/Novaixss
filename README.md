@@ -22,7 +22,7 @@
   <tr>
     <td width="58%" valign="top">
 
-**Victor**, here — a 3rd-year **Information Systems** student from Barretos, Brazil 🇧🇷.
+**Victor**, here — a 3rd-year **Information Systems** student from Barretos, Brazil.
 
 I'm interested in the space between **development and business**: understanding the real problem first, then building the solution end to end.
 
@@ -32,10 +32,10 @@ I'm interested in the space between **development and business**: understanding 
 
 ✈️ When I'm not coding, I'm probably planning the next trip.
 
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="./pixel-me.png" alt="Victor in pixel art" width="240" />
-    </td>
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="./pixel-me.png" alt="Victor in pixel art" width="240" />
+</td>
   </tr>
 </table>
 
@@ -67,8 +67,8 @@ I'm interested in the space between **development and business**: understanding 
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📈 Contribution Chart</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Novaixss&bg_color=0d1117&color=e6edf3&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/Novaixss" alt="Contribution chart" width="100%" />
 </p>
